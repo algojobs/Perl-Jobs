@@ -1,11 +1,12 @@
 # Perl Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 03/29/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/01/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Perl Jobs](https://algojobs.io/jobs/perl)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 04/01/2025 | [Senior Software Embedded Engineer](https://algojobs.io/jobs/3646811) | [Flex](https://algojobs.io/company/flextronics/) | N/A | China, Zhuhai |
 | 03/28/2025 | [Software Principal Engineer](https://algojobs.io/jobs/3616384) | [Dell Technologies](https://algojobs.io/company/dell/) | N/A | Pune, India |
 | 03/28/2025 | [Software Principal Engineer](https://algojobs.io/jobs/3616397) | [Dell Technologies](https://algojobs.io/company/dell/) | N/A | Pune, India |
 | 03/28/2025 | [Senior Software Engineer - Java Backend](https://algojobs.io/jobs/3622604) | [PayPal](https://algojobs.io/company/paypal/) | $72K - $176K | San Jose, California, United States of America |
@@ -35,7 +36,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/24/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3563330) | [Wells Fargo & Company](https://algojobs.io/company/wf/) | N/A | Bengaluru, India |
 | 03/24/2025 | [Senior Software Engineer ((.NET, HTML, CSS, JavaScript & DataFeed ) Hybrid](https://algojobs.io/jobs/3570645) | [FactSet](https://algojobs.io/company/factset/) | N/A | Philippines, Manila, One Le Grand Tower (Manila - One Le Grand) (Hybrid) |
 | 03/24/2025 | [Senior Software Engineer, Network Tools with Python](https://algojobs.io/jobs/3572463) | [Zayo](https://algojobs.io/company/zayo/) | $95K - $150K | United States, United States of America |
-| 03/24/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3574029) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Pune, India |
 | 03/24/2025 | [(USA) Senior, Software Engineer](https://algojobs.io/jobs/3574677) | [Walmart](https://algojobs.io/company/walmart/) | $117K - $234K | Sunnyvale, CA, United States of America |
 | 03/24/2025 | [Senior, Software Engineer - Sunnyvale](https://algojobs.io/jobs/3574683) | [Walmart](https://algojobs.io/company/walmart/) | $117K - $234K | (USA) Sunnyvale III - 840 W California CA Sunnyvale Home Office, United States of America |
 | 03/24/2025 | [Senior Backend Developer (Java & Spring Boot Expert)](https://algojobs.io/jobs/3580637) | [CodeNinja](https://algojobs.io/company/codeninjapk/) | N/A | Lahore DHA, Punjab, Pakistan |
@@ -92,7 +92,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/26/2025 | [Lead Software Engineer – athenaCollector](https://algojobs.io/jobs/3284382) | [athena India](https://algojobs.io/company/athenahealth/) | N/A | Boston MA, United States of America |
 | 02/26/2025 | [Senior Software Engineer 682](https://algojobs.io/jobs/3342410) | [Protegrity](https://algojobs.io/company/protegrity/) | $2 - $25 | Skellefteå (Hybrid) |
 | 02/26/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3280130) | [Red Canyon Engineering & Software](https://algojobs.io/company/redcanyonsoftware/) | $138K - $148K | Denver, CO (Remote) |
-| 02/25/2025 | [Software Engineer 2](https://algojobs.io/jobs/3256623) | [Dell Technologies](https://algojobs.io/company/dell/) | N/A | Warszawa, Poland |
 | 02/24/2025 | [Common Datalink Software Engineer](https://algojobs.io/jobs/3260640) | [Peraton](https://algojobs.io/company/peraton/) | $104K - $166K | San Diego, CA, US |
 | 02/24/2025 | [Senior Software Engineer - Yahoo Mail](https://algojobs.io/jobs/3256056) | [Yahoo](https://algojobs.io/company/ouryahoo/) | $128K - $266K | United States of America |
 | 02/24/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3246500) | [Philips](https://algojobs.io/company/philips/) | N/A | Shenzhen, China |
@@ -106,7 +105,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/20/2025 | [Software Engineer (L2, L3 Development, C/C++, SONIC, NOS)](https://algojobs.io/jobs/3221266) | [Marvell](https://algojobs.io/company/marvell/) | N/A | Bangalore, India |
 | 02/20/2025 | [Professional Software Engineer (HYBRID - Flexible Options)](https://algojobs.io/jobs/3221994) | [Broadridge Financial Solutions, Inc.](https://algojobs.io/company/broadridge/) | N/A | Edgewood, NY / Newark, NJ (Hybrid) |
 | 02/20/2025 | [Cloud Software Engineer](https://algojobs.io/jobs/3215949) | [Sophos](https://algojobs.io/company/sophos/) | N/A | Hungary (Remote) |
-| 02/20/2025 | [Developer/Engineer - Virtualization Infrastructure Tooling](https://algojobs.io/jobs/3221213) | [Synechron Limited_UK Company](https://algojobs.io/company/synechron/) | $90K - $95K | MDC – Montreal / Alpharetta, GA |
 | 02/18/2025 | [Software Engineer-Golang, Java, Spring Framework](https://algojobs.io/jobs/3180494) | [Dell Technologies](https://algojobs.io/company/dell/) | N/A | Bangalore, India |
 | 02/18/2025 | [Principal / Sr. Principal Software Engineer](https://algojobs.io/jobs/3196150) | [Northrop Grumman](https://algojobs.io/company/ngc/) | $100K - $150K | US Expat - P754 Australia Alice Springs |
 | 02/18/2025 | [Senior/ Staff Engineer, Mask Generator (SVRF Runset Developer)](https://algojobs.io/jobs/3194358) | [Micron](https://algojobs.io/company/micron/) | N/A | Hyderabad - Phoenix Aquila, India |
@@ -118,7 +116,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/11/2025 | [PDK Software Engineer - VLSI Physical Verification](https://algojobs.io/jobs/3126109) | [Intel](https://algojobs.io/company/intel/) | $161K - $227K | US, California, Santa Clara / US, Oregon, Hillsboro / US, Texas, Austin / ... |
 | 02/11/2025 | [IT Developer, Business Application Systems (Hybrid)](https://algojobs.io/jobs/3125430) | [Eversource Energy](https://algojobs.io/company/eversource/) | $95K - $106K | Berlin, CT / Manchester, NH / Westwood, MA (Hybrid) |
 | 02/10/2025 | [Software Dev Engineer](https://algojobs.io/jobs/3114237) | [Lattice Semiconductor](https://algojobs.io/company/latticesemi/) | N/A | Pune, MH, IN |
-| 02/10/2025 | [Software Engineer - Datacenter](https://algojobs.io/jobs/3111109) | [Intel](https://algojobs.io/company/intel/) | $96K - $136K | US, California, Santa Clara, United States of America |
 | 02/10/2025 | [Software Application Engineer](https://algojobs.io/jobs/3111107) | [Intel](https://algojobs.io/company/intel/) | $96K - $136K | US, California, Santa Clara, United States of America |
 | 02/10/2025 | [Software Application Engineer](https://algojobs.io/jobs/3111106) | [Intel](https://algojobs.io/company/intel/) | $96K - $136K | US, California, Santa Clara, United States of America |
 | 02/07/2025 | [Software Development Engineer (m/f/d)](https://algojobs.io/jobs/3081697) | [Buchu](https://algojobs.io/company/freseniusmedicalcare/) | N/A | Schweinfurt, Germany |
@@ -129,7 +126,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/03/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3028508) | [Global Payments Inc.](https://algojobs.io/company/tsys/) | N/A | Pune, Maharashtra, India |
 | 02/03/2025 | [Senior Software Development Engineer - Performance Modeling](https://algojobs.io/jobs/3036435) | [Intel](https://algojobs.io/company/intel/) | $169K - $239K | US, California, Santa Clara, United States of America |
 | 02/03/2025 | [Embedded Software Senior Staff Engineer](https://algojobs.io/jobs/3028642) | [Motorola Solutions](https://algojobs.io/company/motorolasolutions/) | N/A | Penang, Malaysia |
-| 01/31/2025 | [Fixed Income Application Developer](https://algojobs.io/jobs/3023446) | [MSCI](https://algojobs.io/company/globalcareers-msci/) | N/A | Mumbai, MH, IN |
-| 01/31/2025 | [MTS 1, Software Engineer](https://algojobs.io/jobs/3021601) | [PayPal](https://algojobs.io/company/paypal/) | N/A | Scottsdale, Arizona, United States of America |
-| 01/29/2025 | [Software Developer - ID](https://algojobs.io/jobs/2989908) | [Interactive Brokers](https://algojobs.io/company/ibkr/) | N/A | Mumbai, India |
-| 01/29/2025 | [Principal Toolchain Software Engineer, Platform Engineering](https://algojobs.io/jobs/2974313) | [Tenstorrent](https://algojobs.io/company/tenstorrent/) | $100K - $500K | Santa Clara, California, United States |
